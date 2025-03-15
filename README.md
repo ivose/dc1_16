@@ -2,7 +2,7 @@
 
 This repository contains a simple Python/Flask app along with a CI/CD pipeline that automatically builds and pushes a Docker image to Docker Hub on every push to the **main** branch.
 
-The deployed application is available at: [https://my-python-app.onrender.com](https://my-python-app.onrender.com)
+The deployed application is available at: [https://dc1-16.onrender.com](https://dc1-16.onrender.com)
 
 ## How It Works
 
